@@ -4,97 +4,405 @@
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/</loc>
+            <loc>http://localhost:1313/works/digital/</loc>
+            <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/</loc>
+            <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/</loc>
+            <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/</loc>
+            <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/</loc>
             <lastmod>2020-02-09T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/</loc>
+            <loc>http://localhost:1313/photos2/</loc>
             <lastmod>2020-02-09T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/warsaw-poland/</loc>
+            <loc>http://localhost:1313/photos/</loc>
             <lastmod>2020-02-09T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/hel-poland-3/</loc>
+            <loc>http://localhost:1313/works/photos/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos2/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/digital/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/photos/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos2/hel-poland-3/</loc>
             <lastmod>2020-02-06T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/hel-poland-2/</loc>
+            <loc>http://localhost:1313/photos/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/digital/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/photos/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos2/hel-poland-2/</loc>
             <lastmod>2020-01-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/arizona-us/</loc>
+            <loc>http://localhost:1313/photos/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/digital/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/photos/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos2/arizona-us/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/chicago-us/</loc>
+            <loc>http://localhost:1313/photos/arizona-us/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/photos/panaji-india-2/</loc>
+            <loc>http://localhost:1313/works/digital/arizona-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/arizona-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/arizona-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/photos/arizona-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/arizona-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos2/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/digital/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/photos/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/photos2/panaji-india-2/</loc>
             <lastmod>2020-01-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/posts/what-is-hugo/</loc>
+            <loc>http://localhost:1313/photos/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/digital/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/ink/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/pencil/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/photos/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/works/sketches/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/what-is-hugo/</loc>
             <lastmod>2019-08-03T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/posts/</loc>
+            <loc>http://localhost:1313/posts/</loc>
             <lastmod>2019-08-03T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/posts/introduction/</loc>
+            <loc>http://localhost:1313/posts/introduction/</loc>
             <lastmod>2019-07-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/about/</loc>
+            <loc>http://localhost:1313/about/</loc>
             <lastmod>2016-11-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/categories/</loc>
+            <loc>http://localhost:1313/contact/</loc>
+            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://snapgon.github.io/tags/</loc>
+            <loc>http://localhost:1313/categories/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/</loc>
         </url>
         
     
