@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sketches on Sean Branigan</title>
+    <link>https://snapgon.github.io/works/sketches/</link>
+    <description>Recent content in Sketches on Sean Branigan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://snapgon.github.io/works/sketches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cat Sketches</title>
+      <link>https://snapgon.github.io/works/sketches/cat-sketches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://snapgon.github.io/works/sketches/cat-sketches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dumbbell Sketches</title>
+      <link>https://snapgon.github.io/works/sketches/dumbbell-sketches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://snapgon.github.io/works/sketches/dumbbell-sketches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flower Sketches</title>
+      <link>https://snapgon.github.io/works/sketches/flowers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://snapgon.github.io/works/sketches/flowers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nutcracker Sketches</title>
+      <link>https://snapgon.github.io/works/sketches/nutcracker-sketches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://snapgon.github.io/works/sketches/nutcracker-sketches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Dragon Sketches</title>
+      <link>https://snapgon.github.io/works/sketches/paper-dragon-sketch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://snapgon.github.io/works/sketches/paper-dragon-sketch/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
