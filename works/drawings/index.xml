@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drawings on Sean Branigan</title>
-    <link>https://snapgon.github.io/works/drawings/</link>
+    <link>http://localhost:1313/works/drawings/</link>
     <description>Recent content in Drawings on Sean Branigan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://snapgon.github.io/works/drawings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/works/drawings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contour Flower</title>
-      <link>https://snapgon.github.io/works/drawings/contour-flower/</link>
+      <link>http://localhost:1313/works/drawings/contour-flower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/drawings/contour-flower/</guid>
+      <guid>http://localhost:1313/works/drawings/contour-flower/</guid>
       <description></description>
     </item>
     <item>
       <title>Gesture Flower</title>
-      <link>https://snapgon.github.io/works/drawings/gesture-flower/</link>
+      <link>http://localhost:1313/works/drawings/gesture-flower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/drawings/gesture-flower/</guid>
+      <guid>http://localhost:1313/works/drawings/gesture-flower/</guid>
       <description></description>
     </item>
     <item>
       <title>Jar</title>
-      <link>https://snapgon.github.io/works/drawings/jar/</link>
+      <link>http://localhost:1313/works/drawings/jar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/drawings/jar/</guid>
+      <guid>http://localhost:1313/works/drawings/jar/</guid>
       <description></description>
     </item>
   </channel>

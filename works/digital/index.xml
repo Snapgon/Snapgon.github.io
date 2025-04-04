@@ -2,44 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital on Sean Branigan</title>
-    <link>https://snapgon.github.io/works/digital/</link>
+    <link>http://localhost:1313/works/digital/</link>
     <description>Recent content in Digital on Sean Branigan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://snapgon.github.io/works/digital/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/works/digital/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clouds1</title>
-      <link>https://snapgon.github.io/works/digital/clouds1/</link>
+      <link>http://localhost:1313/works/digital/clouds1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/digital/clouds1/</guid>
+      <guid>http://localhost:1313/works/digital/clouds1/</guid>
       <description></description>
     </item>
     <item>
       <title>Clouds2</title>
-      <link>https://snapgon.github.io/works/digital/clouds2/</link>
+      <link>http://localhost:1313/works/digital/clouds2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/digital/clouds2/</guid>
+      <guid>http://localhost:1313/works/digital/clouds2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cover</title>
+      <link>http://localhost:1313/works/digital/cover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/digital/cover/</guid>
       <description></description>
     </item>
     <item>
       <title>Discomfort-Blue-Mirror-Submission</title>
-      <link>https://snapgon.github.io/works/digital/discomfort-blue-mirror-submission/</link>
+      <link>http://localhost:1313/works/digital/discomfort-blue-mirror-submission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/digital/discomfort-blue-mirror-submission/</guid>
+      <guid>http://localhost:1313/works/digital/discomfort-blue-mirror-submission/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hands 1</title>
+      <link>http://localhost:1313/works/digital/hands1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/digital/hands1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Landscape Study</title>
+      <link>http://localhost:1313/works/digital/landscapestudy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/digital/landscapestudy1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math Art</title>
+      <link>http://localhost:1313/works/digital/mathart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/digital/mathart/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy J-Term</title>
-      <link>https://snapgon.github.io/works/digital/philosophy-j-term/</link>
+      <link>http://localhost:1313/works/digital/philosophy-j-term/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/digital/philosophy-j-term/</guid>
+      <guid>http://localhost:1313/works/digital/philosophy-j-term/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self Portrait 1</title>
+      <link>http://localhost:1313/works/digital/selfportrait1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/digital/selfportrait1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree</title>
+      <link>http://localhost:1313/works/digital/tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/digital/tree/</guid>
       <description></description>
     </item>
     <item>
       <title>Wall</title>
-      <link>https://snapgon.github.io/works/digital/wall/</link>
+      <link>http://localhost:1313/works/digital/wall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://snapgon.github.io/works/digital/wall/</guid>
+      <guid>http://localhost:1313/works/digital/wall/</guid>
       <description></description>
     </item>
   </channel>
